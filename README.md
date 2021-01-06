@@ -1,2 +1,2 @@
 # Huffman-File-Compression
-Compresses files by up tp 80% using huffman compression method. 
+Compresses files by up to 80% using huffman compression method. 
